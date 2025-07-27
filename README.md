@@ -42,7 +42,7 @@ My goal is to develop AI-powered solutions for real-world problems.
 - 🧩 Real-time **motion recognition** with Deneyap board
 - 🕹️ **Mini games built with Python** 
 - 🌐 **Automated data scraping** with Selenium
-- 💻 **Machine Learning **
+- 💻 **Machine Learning**
 
 ### 🧰 Languages & Tools
 
