@@ -39,8 +39,10 @@ My goal is to develop AI-powered solutions for real-world problems.
 - 📚 **WordCount application** using Hadoop + AWS  
 - 🧠 Real-time **object detection & tracking** with YOLOv  
 - 🦿 Autonomous **mobile robot simulations** using CoppeliaSim  
-- 🧩 Real-time **motion recognition** with Deneyap board  
+- 🧩 Real-time **motion recognition** with Deneyap board
+- 🕹️ **Mini games built with Python** 
 - 🌐 **Automated data scraping** with Selenium
+- 💻 **Machine Learning **
 
 ### 🧰 Languages & Tools
 
@@ -68,6 +70,8 @@ My goal is to develop AI-powered solutions for real-world problems.
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/></a>
 </p>
 
 ### 📬 Contact
