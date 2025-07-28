@@ -22,7 +22,7 @@ My goal is to develop AI-powered solutions for real-world problems.
 
 **🧠 AI Engineer Candidate | Lotus AI**  
 📅 November 2024 - June 2025  
-- Worked on projects in gender, age, identity, and voice recognition  
+- Worked on basic ai projects such as gender and age detection and voice recognition etc.  
 - Developed backend with Django and frontend with React  
 - Contributed to software testing and validation processes
 
